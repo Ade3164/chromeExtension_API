@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to the [Your API Name] API documentation. This API allows you to upload video files, extract audio from them, and transcribe the audio content. It also provides endpoints for serving video files and accessing audio transcriptions.
+Welcome to the my chrome extensio API documentation. This API allows you to upload video files, extract audio from them, and transcribe the audio content. It also provides endpoints for serving video files and accessing audio transcriptions.
 
 ## Base URL
 
